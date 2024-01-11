@@ -6,6 +6,8 @@
 - /Werbung (Text)
 in text you can write what ever you want but it must be 40 letters max
 
+https://laby.net/post/f4a9adab
+
 ### Language 
 - ist nur auf Deutsch
   
