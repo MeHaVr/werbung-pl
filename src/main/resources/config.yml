@@ -1,0 +1,8 @@
+# Dieses Plugin Gehört MeHaVr und wurde einfach nur komplett neu geschrieben von Datenflieger
+
+prefix: "§x§A§9§0§8§F§B§lʟ§x§8§7§3§5§F§C§lʏ§x§6§5§6§2§F§D§lᴛ§x§4§4§9§0§F§D§lʜ§x§2§2§B§D§F§E§lɪ§x§0§0§E§A§F§F§lᴀ §8| §7"
+prefixno: "§c§lʟʏᴛʜɪᴀ §8| §7"
+zeichen: "§7Dieser §aText §7ist zu lang§8. §7Bitte §cversuche§7 es mit weniger §eZeichen §8(§7Maximal 40 Zeichen§8) §7zu schreiben§8."
+werbung: "§7 hat eine §eWerbung geschaltet§8!"
+cooldown_seconds: 1800
+cooldown_message: "&7Du musst noch &e%minutes% Minuten &7warten&8,&7 bevor du die &eWerbung &7erneut schalten kannst&8."
