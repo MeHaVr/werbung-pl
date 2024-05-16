@@ -4,8 +4,5 @@ main: ch.powercraft.werbung.Werbung
 api-version: '1.20'
 commands:
   werbung:
-    description: Set yourself on fire.
-    permission: Werbung.TitelWerbung
-    permission-message: "§x§4§b§f§b§0§4§lP§x§4§4§e§9§0§4§lo§x§3§e§d§7§0§4§lw§x§3§7§c§5§0§5§le§x§3§0§b§3§0§5§lr§x§2§a§a§1§0§5§lC§x§2§3§8§f§0§5§lr§x§1§c§7§d§0§6§la§x§1§6§6§b§0§6§lf§x§0§f§5§9§0§6§lt§r §x§8§4§8§8§8§7|§r Du hast keine rechte dazu"
-
-
+    permission: lythia.werbung
+    permission-message: "§c§lʟʏᴛʜɪᴀ §8| §cDu hast keine Rechte um die Werbung zu schalten§8"
